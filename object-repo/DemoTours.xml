@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DemoTours>
+	<Username>
+		<identifier>xpath</identifier>
+		<Element>/html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[2]/td[3]/form/table/tbody/tr[4]/td/table/tbody/tr[2]/td[2]/input</Element>
+	</Username>
+	<FirstName>
+		<identifier>xpath</identifier>
+		<Element>//*[contains(text(),'First')]/following::input[1]</Element>
+	</FirstName>
+</DemoTours>
